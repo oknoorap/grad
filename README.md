@@ -14,8 +14,10 @@ The development workflow should be as simple as possible. GRAD will be the rescu
 4. Activate it.
 
 # Quick Setup
-1. Add private tokens from your git hosting.
-2. Setup Webhook URL in your git hosting to http://yourdomain.com/wp-json/grad/v1.
+1. Go to Settings > GRAD.
+2. Add private tokens from your git hosting.
+3. Setup Webhook URL in your git hosting to http://yourdomain.com/wp-json/grad/v1.
+4. Done.
 
 # License
 MIT © [oknoorap](https://github.com/oknoorap)
