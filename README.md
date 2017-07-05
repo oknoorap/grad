@@ -7,13 +7,13 @@ This plugin is useful for private plugin provider in your theme. For example, if
 
 The development workflow should be as simple as possible. GRAD will be the rescue. We don't need to download zip binary from (private) repository and reupload again to our hosting.
 
-# Installation
+# :computer: Installation
 1. Download plugin from [release page](https://github.com/oknoorap/grad/releases).
 2. Login to WordPress admin area.
 3. Go to plugins > add new (upload).
 4. Activate it.
 
-# Quick Setup
+# :rocket: Quick Setup
 1. Go to Settings > GRAD.
 2. Add private tokens from your git hosting.
 3. Setup Webhook URL in your git hosting to http://yourdomain.com/wp-json/grad/v1.
