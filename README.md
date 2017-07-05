@@ -5,7 +5,7 @@ GRAD will receive webhook request, then webook will trigger to download released
 
 This plugin is useful for private plugin provider in your theme. For example, if theme is using [TGM Plugin Activation](http://tgmpluginactivation.com/), we must add private plugin's URL in TGM config. 
 
-The development workflow should be as simple as possible. GRAD will be the rescue. We don't need to download from (private) repository and reupload again to our hosting.
+The development workflow should be as simple as possible. GRAD will be the rescue. We don't need to download zip binary from (private) repository and reupload again to our hosting.
 
 # Installation
 1. Download plugin from [release page](https://github.com/oknoorap/grad/releases).
